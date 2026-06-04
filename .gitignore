@@ -1,0 +1,27 @@
+# ── Build output ──────────────────────────────────────────────────────────
+target/
+*.class
+*.jar
+*.war
+
+# ── H2 database files (dev only — never commit DB data) ───────────────────
+data/
+*.mv.db
+*.trace.db
+
+# ── IDE ───────────────────────────────────────────────────────────────────
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ── OS ────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Environment / Secrets ─────────────────────────────────────────────────
+.env
+*.env.local
