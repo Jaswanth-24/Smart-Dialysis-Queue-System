@@ -1,4 +1,4 @@
-# 🏥 Smart Dialysis Queue System
+# 🏥 Real Time Dialysis Patient Queue System
 
 > A production-ready backend system for managing dialysis center operations — from patient check-in to machine assignment, session tracking, and real-time queue broadcasting.
 
